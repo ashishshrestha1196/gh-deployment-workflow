@@ -44,7 +44,6 @@ git add index.html
 git commit -m "Update website content"
 git push origin main
 ```
-![Action Screenshot](images/action_img4.png)
 ![Action Screenshot](images/action_img5.png)
 ---
 
